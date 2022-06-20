@@ -1,2 +1,4 @@
+xmltodict
+paramiko==2.8.1
 ncclient
 pygnmi
